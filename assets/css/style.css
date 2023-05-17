@@ -745,7 +745,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  background: url("https://assets.volkswagen.com/is/image/volkswagenag/EVhubhomepage2022?Zml0PWNyb3AlMkMxJndpZD04MDAmaGVpPTQ4MCZmbXQ9anBlZyZxbHQ9NzkmYmZjPW9mZiYyZmFj") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
