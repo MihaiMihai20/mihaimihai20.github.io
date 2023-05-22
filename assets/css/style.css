@@ -566,7 +566,7 @@ h6 {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(205, 164, 94, 0.7);
+  border: 5px solid rgba(94, 146, 205, 0.7);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -1239,7 +1239,7 @@ section {
 }
 
 .book-a-table .php-email-form button[type=submit]:hover {
-  background: #d3af71;
+  background: #85b7d9;
 }
 
 /*--------------------------------------------------------------
@@ -1279,7 +1279,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #d3af71;
+  color: #85b7d9;
   font-size: 26px;
 }
 
@@ -1457,7 +1457,7 @@ section {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #bab3a6;
+  color: #a6adba;
 }
 
 .contact .info .open-hours,
@@ -1530,12 +1530,12 @@ section {
 
 .contact .php-email-form input::-moz-placeholder,
 .contact .php-email-form textarea::-moz-placeholder {
-  color: #a49b89;
+  color: #8994a4;
 }
 
 .contact .php-email-form input::placeholder,
 .contact .php-email-form textarea::placeholder {
-  color: #a49b89;
+  color: #8991a4;
 }
 
 .contact .php-email-form input:focus,
@@ -1561,7 +1561,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #d3af71;
+  background: #85b7d9;
 }
 
 @keyframes animate-loading {
@@ -1586,8 +1586,8 @@ section {
 
 #footer .footer-top {
   background: #0c0b09;
-  border-top: 1px solid #37332a;
-  border-bottom: 1px solid #28251f;
+  border-top: 1px solid #2a2c37;
+  border-bottom: 1px solid #1f2028;
   padding: 60px 0 30px 0;
 }
 
@@ -1713,7 +1713,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #d3af71;
+  background: #85b7d9;
 }
 
 #footer .copyright {
